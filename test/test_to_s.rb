@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-require_relative '../nama_printer'
+require_relative '../lib/nama_printer'
 require 'test/unit'
 
 # test text_decider
